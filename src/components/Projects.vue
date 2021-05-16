@@ -100,7 +100,7 @@ export default {
   }
 
   .projects-title::after {
-    content: "what i had done";
+    content: "what I had done";
     position: absolute;
     bottom: -8px;
     left: 50%;

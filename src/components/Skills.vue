@@ -79,7 +79,7 @@ export default {
 }
 
 .skills .skills-title::after {
-  content: "what i know";
+  content: "what I know";
   position: absolute;
   bottom: -9px;
   left: 50%;

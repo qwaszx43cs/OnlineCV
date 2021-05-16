@@ -64,7 +64,7 @@ export default {
 }
 
 .about .about-title::after {
-  content: "who i am";
+  content: "who I am";
   position: absolute;
   bottom: -9px;
   left: 50%;
