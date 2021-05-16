@@ -39,7 +39,8 @@ export default {
 </script>
 
 <style>
-@import url('https://fonts.font.im/css?family=Poppins:400,500,600,700|Ubuntu:400,500,700');
+/* @import url('https://fonts.font.im/css?family=Poppins:400,500,600,700|Ubuntu:400,500,700'); */
+@import url('../assets/googlefont.css');
 
 * {
   margin: 0;

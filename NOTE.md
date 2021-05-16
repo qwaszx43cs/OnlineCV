@@ -109,3 +109,8 @@ $('.scroll-btn').click(function () {
 
 
 ### myprojects中的projectcard我使用了flex流式布局
+
+
+### 本地化GOOGLE FONT 
+
+(本地化GOOGLE FONT ) [https://www.lili.kim/2018/09/04/web/%E5%B0%86%20Google%20Fonts%20%E6%9B%BF%E6%8D%A2%E5%88%B0%E6%9C%AC%E5%9C%B0%E8%AF%BB%E5%8F%96/]

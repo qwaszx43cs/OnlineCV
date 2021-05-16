@@ -82,7 +82,7 @@ export default {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: rgba(255, 255, 255, 0.3);
+  background-color: rgba(128, 128, 128, 0.9);
   cursor: pointer;
   border-radius: 5px;
   backdrop-filter: blur(10px);
